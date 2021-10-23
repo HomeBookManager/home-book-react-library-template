@@ -24,7 +24,7 @@ npm start
 
 ## Public NPM
 
-Before publish you have to bump up package.json version & change description in README.md which is use in npm as description. Last thing wchich you have to do is change name with prefix home-book-manager-{name}.
+Before publish you have to bump up package.json version & change description in README.md which is use in npm as description. Last thing wchich you have to do is change name with prefix home-book-{name}.
 
 ```
 npm run build:publish
